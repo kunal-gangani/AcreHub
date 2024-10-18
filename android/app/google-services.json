@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1056346219027",
+    "firebase_url": "https://acrehub-1a3b4-default-rtdb.firebaseio.com",
+    "project_id": "acrehub-1a3b4",
+    "storage_bucket": "acrehub-1a3b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056346219027:android:0f03aa290ab8580d8155e6",
+        "android_client_info": {
+          "package_name": "com.example.acrehub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056346219027-j3s403rhrsf70pi3frja1pcjpli8gsip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acrehub",
+            "certificate_hash": "daa094d64e583ce9df4d81df6ca1bfc7dc63ddaa"
+          }
+        },
+        {
+          "client_id": "1056346219027-mcp7lcd7oe7ahmf4f6dsmieukok1ti73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acrehub",
+            "certificate_hash": "18b2dead1e793e47d485a1812f0ac79867e3d189"
+          }
+        },
+        {
+          "client_id": "1056346219027-rjrtb5t1da3m595m3rq9tcrgl3nhpfj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKD02cV6c2GJERxnsbNaYYCjzX6Vbujs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056346219027-rjrtb5t1da3m595m3rq9tcrgl3nhpfj4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1056346219027-1094k7dp8ndeffnsesovk8m1moa0r69v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.acrehub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
